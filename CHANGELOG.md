@@ -1,3 +1,7 @@
+## 0.1.5
+
+- Republish the English-only README release with npm provenance so n8n Creators Portal verification can accept Resubmit (0.1.4 was published without provenance).
+
 ## 0.1.4
 
 - Make the README English-only to meet n8n community node verification guidelines.
