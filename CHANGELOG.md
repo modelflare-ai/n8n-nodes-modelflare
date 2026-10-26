@@ -1,3 +1,7 @@
+## 0.1.4
+
+- Make the README English-only to meet n8n community node verification guidelines.
+
 ## 0.1.3
 
 - Fix Creator Portal verification by shipping themed source icons, using n8n-native execution errors, and removing an unused restricted global from the built package.
