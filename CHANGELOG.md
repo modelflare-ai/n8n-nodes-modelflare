@@ -1,6 +1,11 @@
-## 0.1.5
+## 0.1.6
 
 - Republish the English-only README release with npm provenance so n8n Creators Portal verification can accept Resubmit (0.1.4 was published without provenance).
+- Update `package.json` `repository.url` to `modelflare-ai/n8n-nodes-modelflare` so npm provenance validation matches the renamed GitHub repo (0.1.5 tag publish failed on that mismatch).
+
+## 0.1.5
+
+- Attempted provenance republish of the English-only README; npm rejected the publish because `repository.url` still pointed at the old `castaly-ai` org. Superseded by 0.1.6.
 
 ## 0.1.4
 
