@@ -9,7 +9,9 @@ Modelflare node for [n8n](https://n8n.io): chat, image and video generation with
 
 ## Install
 
-In n8n: **Settings → Community Nodes → Install**, enter `n8n-nodes-modelflare`. See the [community nodes installation guide](https://docs.n8n.io/integrations/community-nodes/installation/).
+Modelflare is a **verified community node** and is available on **n8n Cloud**. Open the nodes panel in the workflow editor, search for **Modelflare**, and add the node to your workflow.
+
+On self-hosted n8n: **Settings → Community Nodes → Install**, enter `n8n-nodes-modelflare`. See the [community nodes installation guide](https://docs.n8n.io/integrations/community-nodes/installation/).
 
 ## Credentials
 
